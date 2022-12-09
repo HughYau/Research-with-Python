@@ -1,2 +1,2 @@
 # Research-with-Python
-Record me my some worth saving Python code, borrow please indicate the source, thank you!
+Record my some interesting Python code, borrowing is permitted, please indicate the source, thank you!
